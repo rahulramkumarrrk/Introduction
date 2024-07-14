@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me:
+My name is Rahul Ramkumar, and I am currently pursuing a degree in cybersecurity with a strong interest in penetration testing. Throughout my academic journey, I've gained a solid understanding of cybersecurity principles and practices.<br><br>I have a strong passion for Python development, frequently engaging in coding projects and pursuing certifications to expand my technical expertise. My focus is on ethical hacking and identifying cybersecurity vulnerabilities to help businesses strengthen their defenses.<br><br>Committed to continuous learning and staying updated with industry developments, I look forward to collaborating with cybersecurity professionals to explore new opportunities. Feel free to connect with me on LinkedIn or reach out via email at rahulramkumarrrk@gmail.com.
 
-<!--
-**RahulPentest/RahulPentest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Social: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulpentest) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RahulPentest&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RahulPentest&theme=radical&hide_border=false)<br/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
