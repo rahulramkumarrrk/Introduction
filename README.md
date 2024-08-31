@@ -7,8 +7,4 @@ My name is Rahul Ramkumar, and I am currently pursuing a degree in cybersecurity
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RahulPentest&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulPentest&theme=radical&hide_border=false)<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
